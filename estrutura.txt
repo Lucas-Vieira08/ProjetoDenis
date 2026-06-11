@@ -1,0 +1,14 @@
+paleta de cores
+
+cor primaria #CC0000
+cor secundaria #2B2B2B
+cor terciaria #A5A9B4
+neutra #121212
+
+fontes 
+
+cabeçalho montserrat
+corpo Inter
+label Inter
+
+quero ter 5 seções  
